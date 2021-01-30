@@ -1,4 +1,4 @@
-package com.test;
+package com.telusko;
 
 import java.lang.System;
 import org.springframework.core.SpringVersion;
